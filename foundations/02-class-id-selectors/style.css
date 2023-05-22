@@ -1,0 +1,21 @@
+/* CSS for Exercise 2 */
+
+.odd {
+    background-color: #FADBD8;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#second {
+    color: #3337FF;
+    font-size: 36px;
+}
+
+#third {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: #7DCEA0;
+    font-size: 24px;
+    font-weight: 700;
+}
