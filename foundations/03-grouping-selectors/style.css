@@ -1,0 +1,15 @@
+/* CSS for Exercise 3 index.html */
+
+.buttons {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
+
+#first-button {
+    color: rgb(255,255,255);
+    background-color: rgb(0,0,0);
+}
+
+#second-button {
+    background-color: rgb(255,255,0);
+}
