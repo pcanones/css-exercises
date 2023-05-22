@@ -1,0 +1,9 @@
+/* CSS File for Exercise 1 index.html */
+
+div {
+    background-color: red;
+    color: white;
+    font-size: 32px;
+    text-align: center;
+    font-weight: 700;
+}
